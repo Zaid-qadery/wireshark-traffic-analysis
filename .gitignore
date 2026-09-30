@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# Never commit raw captures unless you are sure they are public
+*.pcap
+*.pcapng
+
+# Python (for the detection script later)
+__pycache__/
+.venv/
